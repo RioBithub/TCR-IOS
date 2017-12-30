@@ -7,7 +7,7 @@ import requests
 from thrift.transport import THttpClient
 from thrift.protocol import TCompactProtocol
 
-from LineService import *
+import LineService 
 from ttypes import *
 import tempfile
 
