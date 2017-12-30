@@ -11,7 +11,7 @@ import time,random,sys,json,codecs,threading,glob,re
 
 cl = SOURCE.LINE()
 cl.login(qr=False)
-cl.login(token'')
+cl.login(token='')
 cl.loginResult()
 
 ki = kk = kc = cl 
