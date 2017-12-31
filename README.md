@@ -1,8 +1,10 @@
-# FIXED-TCR
-Fixed TCR Script
+# LA IPAD
 
-Fixed by RIOBITHUB/ line.me/ti/p/~devaabn
+Just change the line app and user agent
+
 How to generating token?
 http://101.255.95.249:6969/
+^Not my website,absolutely not.
+I got it from square programming
 
 [21:38]
